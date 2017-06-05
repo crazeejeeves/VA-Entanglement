@@ -1,2 +1,2 @@
-# VA-Entanglement
+# Entanglement for VoiceAttack
 Voice Attack plugin to support extensible key-binding inspection for games
