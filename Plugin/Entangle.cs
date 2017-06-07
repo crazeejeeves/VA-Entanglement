@@ -32,7 +32,7 @@ namespace entanglement.Plugin
 
         public static void VA_Invoke1(dynamic vaProxy)
         {
-            IProxy proxy = ProxyFactory.GetProxy(vaProxy);
+            IProxyHelper proxy = ProxyHelperFactory.GetProxy(vaProxy);
 
             proxy.WriteToLog("Some magic is happening", "blue");
             proxy.WriteToLog(proxy.PluginPath(), "blue");

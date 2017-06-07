@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{38F43AC4-1E3D-4A45-872F-640C87FD9EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edBinder", "Plugin\edBinder.csproj", "{FF9F989A-7709-4BF6-BD32-5ABF8B256652}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin", "Plugin\Plugin.csproj", "{FF9F989A-7709-4BF6-BD32-5ABF8B256652}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

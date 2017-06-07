@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace entanglement.Core.Proxy
 {
-    internal class ProxyV4: IProxy
+    internal class ProxyHelperV4: IProxyHelper
     {
         private dynamic _proxy;
 
@@ -14,7 +14,7 @@ namespace entanglement.Core.Proxy
             set { _proxy = value; }
         }
 
-        public ProxyV4(dynamic vaProxy)
+        public ProxyHelperV4(dynamic vaProxy)
         {
             this.Proxy = vaProxy;
         }

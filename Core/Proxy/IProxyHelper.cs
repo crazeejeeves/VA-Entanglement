@@ -6,7 +6,7 @@ namespace entanglement.Core.Proxy
 {
     using ObjectDictionary = Dictionary<string, object>;
 
-    public interface IProxy
+    public interface IProxyHelper
     {
         string GetProfileName();
         string PluginPath();

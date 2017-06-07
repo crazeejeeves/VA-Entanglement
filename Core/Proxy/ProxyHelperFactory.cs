@@ -2,19 +2,19 @@
 
 namespace entanglement.Core.Proxy
 {
-    public static class ProxyFactory
+    public static class ProxyHelperFactory
     {
-        public static IProxy GetProxy(dynamic vaProxy)
+        public static IProxyHelper GetProxy(dynamic vaProxy)
         {
             ApiInfo apiInfo = new ApiInfo(vaProxy);
             string proxyVersion = apiInfo.ProxyVersion.ToString();
 
             // TODO: Replace with an abstraction to decouple factory from concrete implementations
-            IProxy proxy = null;
+            IProxyHelper proxy = null;
             switch (proxyVersion)
             {
                 case "1.0.0.0":
-                    proxy = new ProxyV4(apiInfo.Proxy);
+                    proxy = new ProxyHelperV4(apiInfo.Proxy);
                     break;
 
                 default:
