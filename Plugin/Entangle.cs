@@ -20,19 +20,16 @@ namespace entanglement.Plugin
             return new Guid("73078BC6-D9B1-41CA-82A7-B50A2C72F4BF");
         }
 
-        //public static void VA_Init1(ref Dictionary<string, object> state, ref Dictionary<string, Int16?> shortIntValues, ref Dictionary<string, string> textValues, ref Dictionary<string, int?> intValues, ref Dictionary<string, decimal?> decimalValues, ref Dictionary<string, Boolean?> booleanValues, ref Dictionary<string, DateTime?> dateTimeValues, ref Dictionary<string, object> extendedValues)
         public static void VA_Init1(dynamic vaProxy)
         {
             // TODO: Initialize here
         }
 
-        //public static void VA_Exit1(ref Dictionary<string, object> state)
         public static void VA_Exit1(dynamic vaProxy)
         {
             // TODO: Cleanup here
         }
 
-        //public static void VA_Invoke1(String context, ref Dictionary<string, object> state, ref Dictionary<string, Int16?> shortIntValues, ref Dictionary<string, string> textValues, ref Dictionary<string, int?> intValues, ref Dictionary<string, decimal?> decimalValues, ref Dictionary<string, Boolean?> booleanValues, ref Dictionary<string, DateTime?> dateTimeValues, ref Dictionary<string, object> extendedValues)
         public static void VA_Invoke1(dynamic vaProxy)
         {
             IProxy proxy = ProxyFactory.GetProxy(vaProxy);
