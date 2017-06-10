@@ -1,4 +1,5 @@
 ﻿using System;
+using entanglement.Core;
 using entanglement.Core.Proxy;
 
 namespace entanglement.Plugin
