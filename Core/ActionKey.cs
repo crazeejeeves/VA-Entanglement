@@ -1,10 +1,24 @@
 ﻿
 namespace entanglement.Core
 {
+    /// <summary>
+    /// Loaded binding information
+    /// </summary>
     public class ActionKey
     {
-        string Device { get; set; }
-        string Primary { get; set; }
-        string Secondary { get; set; }
+        /// <summary>
+        /// Unique command or action name
+        /// </summary>
+        public string CommandName { get; set; }
+
+        /// <summary>
+        /// Application-specific key bind. Primary slot.
+        /// </summary>
+        public string Primary { get; set; }
+
+        /// <summary>
+        /// Application-specific key bind. Secondary slot, if supported by the application.
+        /// </summary>
+        public string Secondary { get; set; }
     }
 }

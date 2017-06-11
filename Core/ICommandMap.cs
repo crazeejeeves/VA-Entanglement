@@ -26,16 +26,6 @@ namespace entanglement.Core
         bool CommandExists(string commandName);
 
         /// <summary>
-        /// Checks if the specified command name is marked for inclusion (default) or not.
-        /// Excluding a command prevents the binding from being exposed to VoiceAttack. Useful to skip
-        /// rarely used commands or commands that cannot be effectively mapped for voice control 
-        /// (e.g. press-and-hold commands)
-        /// </summary>
-        /// <param name="commandName">Command to evaluate</param>
-        /// <returns>True if command is included</returns>
-        bool CommandIncluded(string commandName);
-
-        /// <summary>
         /// Request for the friendly name (if any) of a specified command. By default, this is the
         /// same as the commandName but can be customized by the developer. E.g.
         /// In Elite:Dangerous, the 'Engine Boost' command in UI is defined as 'UseBoostJuice'. A friendly

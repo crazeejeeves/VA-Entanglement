@@ -84,17 +84,6 @@ namespace entanglement.Core.Commands
             return _included.ContainsKey(commandName);
         }
 
-        public bool CommandIncluded(string commandName)
-        {
-            if(CommandExists(commandName))
-            {
-                Command c = _included[commandName];
-                return c.Include;
-            }
-
-            throw new KeyNotFoundException("Requested command '{0}' does not exist");
-        }
-
         public string GetFriendlyName(string commandName)
         {
             if (CommandExists(commandName))

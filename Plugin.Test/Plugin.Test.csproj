@@ -68,6 +68,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{38F43AC4-1E3D-4A45-872F-640C87FD9EB3}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Plugin\Plugin.csproj">
       <Project>{ff9f989a-7709-4bf6-bd32-5abf8b256652}</Project>
       <Name>Plugin</Name>

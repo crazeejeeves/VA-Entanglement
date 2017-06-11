@@ -4,71 +4,71 @@
     <SourceName>MouseReset</SourceName>
     <FriendlyName>MouseReset</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>YawLeftButton</SourceName>
     <FriendlyName>YawLeftButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>YawRightButton</SourceName>
     <FriendlyName>YawRightButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>YawToRollButton</SourceName>
     <FriendlyName>YawToRollButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RollLeftButton</SourceName>
     <FriendlyName>RollLeftButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RollRightButton</SourceName>
     <FriendlyName>RollRightButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PitchUpButton</SourceName>
     <FriendlyName>PitchUpButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PitchDownButton</SourceName>
     <FriendlyName>PitchDownButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>LeftThrustButton</SourceName>
     <FriendlyName>LeftThrustButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RightThrustButton</SourceName>
     <FriendlyName>RightThrustButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>UpThrustButton</SourceName>
     <FriendlyName>UpThrustButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>DownThrustButton</SourceName>
     <FriendlyName>DownThrustButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ForwardThrustButton</SourceName>
     <FriendlyName>ForwardThrustButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BackwardThrustButton</SourceName>
     <FriendlyName>BackwardThrustButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>UseAlternateFlightValuesToggle</SourceName>
     <FriendlyName>UseAlternateFlightValuesToggle</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ToggleReverseThrottleInput</SourceName>
     <FriendlyName>ToggleReverseThrottleInput</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ForwardKey</SourceName>
     <FriendlyName>ForwardKey</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BackwardKey</SourceName>
     <FriendlyName>BackwardKey</FriendlyName>
   </Command>
@@ -108,51 +108,51 @@
     <SourceName>SetSpeed100</SourceName>
     <FriendlyName>SetSpeed100</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>YawLeftButton_Landing</SourceName>
     <FriendlyName>YawLeftButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>YawRightButton_Landing</SourceName>
     <FriendlyName>YawRightButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PitchUpButton_Landing</SourceName>
     <FriendlyName>PitchUpButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PitchDownButton_Landing</SourceName>
     <FriendlyName>PitchDownButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RollLeftButton_Landing</SourceName>
     <FriendlyName>RollLeftButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RollRightButton_Landing</SourceName>
     <FriendlyName>RollRightButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>LeftThrustButton_Landing</SourceName>
     <FriendlyName>LeftThrustButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RightThrustButton_Landing</SourceName>
     <FriendlyName>RightThrustButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>UpThrustButton_Landing</SourceName>
     <FriendlyName>UpThrustButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>DownThrustButton_Landing</SourceName>
     <FriendlyName>DownThrustButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ForwardThrustButton_Landing</SourceName>
     <FriendlyName>ForwardThrustButton_Landing</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BackwardThrustButton_Landing</SourceName>
     <FriendlyName>BackwardThrustButton_Landing</FriendlyName>
   </Command>
@@ -272,11 +272,11 @@
     <SourceName>ShipSpotLightToggle</SourceName>
     <FriendlyName>ShipSpotLightToggle</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RadarIncreaseRange</SourceName>
     <FriendlyName>RadarIncreaseRange</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RadarDecreaseRange</SourceName>
     <FriendlyName>RadarDecreaseRange</FriendlyName>
   </Command>
@@ -312,7 +312,7 @@
     <SourceName>LandingGearToggle</SourceName>
     <FriendlyName>LandingGearToggle</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MicrophoneMute</SourceName>
     <FriendlyName>MicrophoneMute</FriendlyName>
   </Command>
@@ -424,71 +424,71 @@
     <SourceName>HeadLookReset</SourceName>
     <FriendlyName>HeadLookReset</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>HeadLookPitchUp</SourceName>
     <FriendlyName>HeadLookPitchUp</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>HeadLookPitchDown</SourceName>
     <FriendlyName>HeadLookPitchDown</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>HeadLookYawLeft</SourceName>
     <FriendlyName>HeadLookYawLeft</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>HeadLookYawRight</SourceName>
     <FriendlyName>HeadLookYawRight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamPitchUp</SourceName>
     <FriendlyName>CamPitchUp</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamPitchDown</SourceName>
     <FriendlyName>CamPitchDown</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamYawLeft</SourceName>
     <FriendlyName>CamYawLeft</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamYawRight</SourceName>
     <FriendlyName>CamYawRight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamTranslateForward</SourceName>
     <FriendlyName>CamTranslateForward</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamTranslateBackward</SourceName>
     <FriendlyName>CamTranslateBackward</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamTranslateLeft</SourceName>
     <FriendlyName>CamTranslateLeft</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamTranslateRight</SourceName>
     <FriendlyName>CamTranslateRight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamTranslateUp</SourceName>
     <FriendlyName>CamTranslateUp</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamTranslateDown</SourceName>
     <FriendlyName>CamTranslateDown</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamZoomIn</SourceName>
     <FriendlyName>CamZoomIn</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamZoomOut</SourceName>
     <FriendlyName>CamZoomOut</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CamTranslateZHold</SourceName>
     <FriendlyName>CamTranslateZHold</FriendlyName>
   </Command>
@@ -496,31 +496,31 @@
     <SourceName>ToggleDriveAssist</SourceName>
     <FriendlyName>ToggleDriveAssist</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>SteerLeftButton</SourceName>
     <FriendlyName>SteerLeftButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>SteerRightButton</SourceName>
     <FriendlyName>SteerRightButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyRollLeftButton</SourceName>
     <FriendlyName>BuggyRollLeftButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyRollRightButton</SourceName>
     <FriendlyName>BuggyRollRightButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyPitchUpButton</SourceName>
     <FriendlyName>BuggyPitchUpButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyPitchDownButton</SourceName>
     <FriendlyName>BuggyPitchDownButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VerticalThrustersButton</SourceName>
     <FriendlyName>VerticalThrustersButton</FriendlyName>
   </Command>
@@ -548,19 +548,19 @@
     <SourceName>SelectTarget_Buggy</SourceName>
     <FriendlyName>SelectTarget_Buggy</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyTurretYawLeftButton</SourceName>
     <FriendlyName>BuggyTurretYawLeftButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyTurretYawRightButton</SourceName>
     <FriendlyName>BuggyTurretYawRightButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyTurretPitchUpButton</SourceName>
     <FriendlyName>BuggyTurretPitchUpButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>BuggyTurretPitchDownButton</SourceName>
     <FriendlyName>BuggyTurretPitchDownButton</FriendlyName>
   </Command>
@@ -660,27 +660,27 @@
     <SourceName>MultiCrewSecondaryUtilityFire</SourceName>
     <FriendlyName>MultiCrewSecondaryUtilityFire</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MultiCrewThirdPersonYawLeftButton</SourceName>
     <FriendlyName>MultiCrewThirdPersonYawLeftButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MultiCrewThirdPersonYawRightButton</SourceName>
     <FriendlyName>MultiCrewThirdPersonYawRightButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MultiCrewThirdPersonPitchUpButton</SourceName>
     <FriendlyName>MultiCrewThirdPersonPitchUpButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MultiCrewThirdPersonPitchDownButton</SourceName>
     <FriendlyName>MultiCrewThirdPersonPitchDownButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MultiCrewThirdPersonFovOutButton</SourceName>
     <FriendlyName>MultiCrewThirdPersonFovOutButton</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MultiCrewThirdPersonFovInButton</SourceName>
     <FriendlyName>MultiCrewThirdPersonFovInButton</FriendlyName>
   </Command>
@@ -724,171 +724,171 @@
     <SourceName>OpenOrders</SourceName>
     <FriendlyName>OpenOrders</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PhotoCameraToggle</SourceName>
     <FriendlyName>PhotoCameraToggle</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PhotoCameraToggle_Buggy</SourceName>
     <FriendlyName>PhotoCameraToggle_Buggy</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraScrollLeft</SourceName>
     <FriendlyName>VanityCameraScrollLeft</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraScrollRight</SourceName>
     <FriendlyName>VanityCameraScrollRight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ToggleFreeCam</SourceName>
     <FriendlyName>ToggleFreeCam</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraOne</SourceName>
     <FriendlyName>VanityCameraOne</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraTwo</SourceName>
     <FriendlyName>VanityCameraTwo</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraThree</SourceName>
     <FriendlyName>VanityCameraThree</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraFour</SourceName>
     <FriendlyName>VanityCameraFour</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraFive</SourceName>
     <FriendlyName>VanityCameraFive</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraSix</SourceName>
     <FriendlyName>VanityCameraSix</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraSeven</SourceName>
     <FriendlyName>VanityCameraSeven</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraEight</SourceName>
     <FriendlyName>VanityCameraEight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>VanityCameraNine</SourceName>
     <FriendlyName>VanityCameraNine</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FreeCamToggleHUD</SourceName>
     <FriendlyName>FreeCamToggleHUD</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FreeCamSpeedInc</SourceName>
     <FriendlyName>FreeCamSpeedInc</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FreeCamSpeedDec</SourceName>
     <FriendlyName>FreeCamSpeedDec</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ToggleReverseThrottleInputFreeCam</SourceName>
     <FriendlyName>ToggleReverseThrottleInputFreeCam</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MoveFreeCamForward</SourceName>
     <FriendlyName>MoveFreeCamForward</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MoveFreeCamBackwards</SourceName>
     <FriendlyName>MoveFreeCamBackwards</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MoveFreeCamRight</SourceName>
     <FriendlyName>MoveFreeCamRight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MoveFreeCamLeft</SourceName>
     <FriendlyName>MoveFreeCamLeft</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MoveFreeCamUp</SourceName>
     <FriendlyName>MoveFreeCamUp</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>MoveFreeCamDown</SourceName>
     <FriendlyName>MoveFreeCamDown</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PitchCameraUp</SourceName>
     <FriendlyName>PitchCameraUp</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>PitchCameraDown</SourceName>
     <FriendlyName>PitchCameraDown</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>YawCameraLeft</SourceName>
     <FriendlyName>YawCameraLeft</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>YawCameraRight</SourceName>
     <FriendlyName>YawCameraRight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RollCameraLeft</SourceName>
     <FriendlyName>RollCameraLeft</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>RollCameraRight</SourceName>
     <FriendlyName>RollCameraRight</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ToggleRotationLock</SourceName>
     <FriendlyName>ToggleRotationLock</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FixCameraRelativeToggle</SourceName>
     <FriendlyName>FixCameraRelativeToggle</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FixCameraWorldToggle</SourceName>
     <FriendlyName>FixCameraWorldToggle</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>QuitCamera</SourceName>
     <FriendlyName>QuitCamera</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>ToggleAdvanceMode</SourceName>
     <FriendlyName>ToggleAdvanceMode</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FreeCamZoomIn</SourceName>
     <FriendlyName>FreeCamZoomIn</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FreeCamZoomOut</SourceName>
     <FriendlyName>FreeCamZoomOut</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FStopDec</SourceName>
     <FriendlyName>FStopDec</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>FStopInc</SourceName>
     <FriendlyName>FStopInc</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CommanderCreator_Undo</SourceName>
     <FriendlyName>CommanderCreator_Undo</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CommanderCreator_Redo</SourceName>
     <FriendlyName>CommanderCreator_Redo</FriendlyName>
   </Command>
-  <Command Include="true">
+  <Command Include="false">
     <SourceName>CommanderCreator_Rotation_MouseToggle</SourceName>
     <FriendlyName>CommanderCreator_Rotation_MouseToggle</FriendlyName>
   </Command>

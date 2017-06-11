@@ -44,7 +44,9 @@
     <Compile Include="ActionSourceContainer.cs" />
     <Compile Include="Commands\StandardCommandMap.cs" />
     <Compile Include="Commands\Command.cs" />
+    <Compile Include="IBindingReader.cs" />
     <Compile Include="ICommandMap.cs" />
+    <Compile Include="IKeyMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Proxy\ApiInfo.cs" />
     <Compile Include="Proxy\IProxyHelper.cs" />
