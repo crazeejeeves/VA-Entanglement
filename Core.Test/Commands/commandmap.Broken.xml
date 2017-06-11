@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppCommands Name="Unittest - Broken">
+  <Command Include="true">
+    <FriendlyName>NoSourceCommandName</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncludedCommand</SourceName>
+    <FriendlyName>IncludedCommandFriendlyName</FriendlyName>
+  </Command>
+</AppCommands>

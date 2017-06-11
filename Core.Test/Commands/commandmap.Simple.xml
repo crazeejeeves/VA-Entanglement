@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppCommands Name="Unittest - Simple">
+  <Command Include="true">
+    <SourceName>IncludedCommand</SourceName>
+    <FriendlyName>FriendlyIncludedCommand</FriendlyName>
+  </Command>
+  <Command Include="false">
+    <SourceName>ExcludedCommand</SourceName>
+    <FriendlyName>FriendlyExcludedCommand</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CommandWithMissingFriendly</SourceName>
+  </Command>
+  <Command>
+    <SourceName>CommandWithMissingInclude</SourceName>
+    <FriendlyName>FriendlyCommandWithMissingInclude</FriendlyName>
+  </Command>
+  </AppCommands>

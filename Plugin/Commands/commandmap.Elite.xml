@@ -1,0 +1,895 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppCommands Name="Elite Dangerous">
+  <Command Include="true">
+    <SourceName>MouseReset</SourceName>
+    <FriendlyName>MouseReset</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>YawLeftButton</SourceName>
+    <FriendlyName>YawLeftButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>YawRightButton</SourceName>
+    <FriendlyName>YawRightButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>YawToRollButton</SourceName>
+    <FriendlyName>YawToRollButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RollLeftButton</SourceName>
+    <FriendlyName>RollLeftButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RollRightButton</SourceName>
+    <FriendlyName>RollRightButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PitchUpButton</SourceName>
+    <FriendlyName>PitchUpButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PitchDownButton</SourceName>
+    <FriendlyName>PitchDownButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>LeftThrustButton</SourceName>
+    <FriendlyName>LeftThrustButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RightThrustButton</SourceName>
+    <FriendlyName>RightThrustButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UpThrustButton</SourceName>
+    <FriendlyName>UpThrustButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>DownThrustButton</SourceName>
+    <FriendlyName>DownThrustButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ForwardThrustButton</SourceName>
+    <FriendlyName>ForwardThrustButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BackwardThrustButton</SourceName>
+    <FriendlyName>BackwardThrustButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UseAlternateFlightValuesToggle</SourceName>
+    <FriendlyName>UseAlternateFlightValuesToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleReverseThrottleInput</SourceName>
+    <FriendlyName>ToggleReverseThrottleInput</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ForwardKey</SourceName>
+    <FriendlyName>ForwardKey</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BackwardKey</SourceName>
+    <FriendlyName>BackwardKey</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeedMinus100</SourceName>
+    <FriendlyName>SetSpeedMinus100</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeedMinus75</SourceName>
+    <FriendlyName>SetSpeedMinus75</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeedMinus50</SourceName>
+    <FriendlyName>SetSpeedMinus50</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeedMinus25</SourceName>
+    <FriendlyName>SetSpeedMinus25</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeedZero</SourceName>
+    <FriendlyName>SetSpeedZero</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeed25</SourceName>
+    <FriendlyName>SetSpeed25</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeed50</SourceName>
+    <FriendlyName>SetSpeed50</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeed75</SourceName>
+    <FriendlyName>SetSpeed75</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SetSpeed100</SourceName>
+    <FriendlyName>SetSpeed100</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>YawLeftButton_Landing</SourceName>
+    <FriendlyName>YawLeftButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>YawRightButton_Landing</SourceName>
+    <FriendlyName>YawRightButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PitchUpButton_Landing</SourceName>
+    <FriendlyName>PitchUpButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PitchDownButton_Landing</SourceName>
+    <FriendlyName>PitchDownButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RollLeftButton_Landing</SourceName>
+    <FriendlyName>RollLeftButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RollRightButton_Landing</SourceName>
+    <FriendlyName>RollRightButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>LeftThrustButton_Landing</SourceName>
+    <FriendlyName>LeftThrustButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RightThrustButton_Landing</SourceName>
+    <FriendlyName>RightThrustButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UpThrustButton_Landing</SourceName>
+    <FriendlyName>UpThrustButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>DownThrustButton_Landing</SourceName>
+    <FriendlyName>DownThrustButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ForwardThrustButton_Landing</SourceName>
+    <FriendlyName>ForwardThrustButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BackwardThrustButton_Landing</SourceName>
+    <FriendlyName>BackwardThrustButton_Landing</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleFlightAssist</SourceName>
+    <FriendlyName>ToggleFlightAssist</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UseBoostJuice</SourceName>
+    <FriendlyName>UseBoostJuice</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HyperSuperCombination</SourceName>
+    <FriendlyName>HyperSuperCombination</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>Supercruise</SourceName>
+    <FriendlyName>Supercruise</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>Hyperspace</SourceName>
+    <FriendlyName>Hyperspace</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>DisableRotationCorrectToggle</SourceName>
+    <FriendlyName>DisableRotationCorrectToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrbitLinesToggle</SourceName>
+    <FriendlyName>OrbitLinesToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SelectTarget</SourceName>
+    <FriendlyName>SelectTarget</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CycleNextTarget</SourceName>
+    <FriendlyName>CycleNextTarget</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CyclePreviousTarget</SourceName>
+    <FriendlyName>CyclePreviousTarget</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SelectHighestThreat</SourceName>
+    <FriendlyName>SelectHighestThreat</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CycleNextHostileTarget</SourceName>
+    <FriendlyName>CycleNextHostileTarget</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CyclePreviousHostileTarget</SourceName>
+    <FriendlyName>CyclePreviousHostileTarget</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>TargetWingman0</SourceName>
+    <FriendlyName>TargetWingman0</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>TargetWingman1</SourceName>
+    <FriendlyName>TargetWingman1</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>TargetWingman2</SourceName>
+    <FriendlyName>TargetWingman2</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SelectTargetsTarget</SourceName>
+    <FriendlyName>SelectTargetsTarget</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>WingNavLock</SourceName>
+    <FriendlyName>WingNavLock</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CycleNextSubsystem</SourceName>
+    <FriendlyName>CycleNextSubsystem</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CyclePreviousSubsystem</SourceName>
+    <FriendlyName>CyclePreviousSubsystem</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>TargetNextRouteSystem</SourceName>
+    <FriendlyName>TargetNextRouteSystem</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PrimaryFire</SourceName>
+    <FriendlyName>PrimaryFire</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SecondaryFire</SourceName>
+    <FriendlyName>SecondaryFire</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CycleFireGroupNext</SourceName>
+    <FriendlyName>CycleFireGroupNext</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CycleFireGroupPrevious</SourceName>
+    <FriendlyName>CycleFireGroupPrevious</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>DeployHardpointToggle</SourceName>
+    <FriendlyName>DeployHardpointToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleButtonUpInput</SourceName>
+    <FriendlyName>ToggleButtonUpInput</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>DeployHeatSink</SourceName>
+    <FriendlyName>DeployHeatSink</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ShipSpotLightToggle</SourceName>
+    <FriendlyName>ShipSpotLightToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RadarIncreaseRange</SourceName>
+    <FriendlyName>RadarIncreaseRange</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RadarDecreaseRange</SourceName>
+    <FriendlyName>RadarDecreaseRange</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncreaseEnginesPower</SourceName>
+    <FriendlyName>IncreaseEnginesPower</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncreaseWeaponsPower</SourceName>
+    <FriendlyName>IncreaseWeaponsPower</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncreaseSystemsPower</SourceName>
+    <FriendlyName>IncreaseSystemsPower</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ResetPowerDistribution</SourceName>
+    <FriendlyName>ResetPowerDistribution</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HMDReset</SourceName>
+    <FriendlyName>HMDReset</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleCargoScoop</SourceName>
+    <FriendlyName>ToggleCargoScoop</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>EjectAllCargo</SourceName>
+    <FriendlyName>EjectAllCargo</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>LandingGearToggle</SourceName>
+    <FriendlyName>LandingGearToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MicrophoneMute</SourceName>
+    <FriendlyName>MicrophoneMute</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UseShieldCell</SourceName>
+    <FriendlyName>UseShieldCell</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FireChaffLauncher</SourceName>
+    <FriendlyName>FireChaffLauncher</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ChargeECM</SourceName>
+    <FriendlyName>ChargeECM</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>WeaponColourToggle</SourceName>
+    <FriendlyName>WeaponColourToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>EngineColourToggle</SourceName>
+    <FriendlyName>EngineColourToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UIFocus</SourceName>
+    <FriendlyName>UIFocus</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusLeftPanel</SourceName>
+    <FriendlyName>FocusLeftPanel</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusCommsPanel</SourceName>
+    <FriendlyName>FocusCommsPanel</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>QuickCommsPanel</SourceName>
+    <FriendlyName>QuickCommsPanel</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusRadarPanel</SourceName>
+    <FriendlyName>FocusRadarPanel</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusRightPanel</SourceName>
+    <FriendlyName>FocusRightPanel</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>GalaxyMapOpen</SourceName>
+    <FriendlyName>GalaxyMapOpen</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SystemMapOpen</SourceName>
+    <FriendlyName>SystemMapOpen</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ShowPGScoreSummaryInput</SourceName>
+    <FriendlyName>ShowPGScoreSummaryInput</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadLookToggle</SourceName>
+    <FriendlyName>HeadLookToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>Pause</SourceName>
+    <FriendlyName>Pause</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FriendsMenu</SourceName>
+    <FriendlyName>FriendsMenu</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UI_Up</SourceName>
+    <FriendlyName>UI_Up</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UI_Down</SourceName>
+    <FriendlyName>UI_Down</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UI_Left</SourceName>
+    <FriendlyName>UI_Left</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UI_Right</SourceName>
+    <FriendlyName>UI_Right</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UI_Select</SourceName>
+    <FriendlyName>UI_Select</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UI_Back</SourceName>
+    <FriendlyName>UI_Back</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UI_Toggle</SourceName>
+    <FriendlyName>UI_Toggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CycleNextPanel</SourceName>
+    <FriendlyName>CycleNextPanel</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CyclePreviousPanel</SourceName>
+    <FriendlyName>CyclePreviousPanel</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadLookReset</SourceName>
+    <FriendlyName>HeadLookReset</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadLookPitchUp</SourceName>
+    <FriendlyName>HeadLookPitchUp</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadLookPitchDown</SourceName>
+    <FriendlyName>HeadLookPitchDown</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadLookYawLeft</SourceName>
+    <FriendlyName>HeadLookYawLeft</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadLookYawRight</SourceName>
+    <FriendlyName>HeadLookYawRight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamPitchUp</SourceName>
+    <FriendlyName>CamPitchUp</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamPitchDown</SourceName>
+    <FriendlyName>CamPitchDown</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamYawLeft</SourceName>
+    <FriendlyName>CamYawLeft</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamYawRight</SourceName>
+    <FriendlyName>CamYawRight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamTranslateForward</SourceName>
+    <FriendlyName>CamTranslateForward</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamTranslateBackward</SourceName>
+    <FriendlyName>CamTranslateBackward</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamTranslateLeft</SourceName>
+    <FriendlyName>CamTranslateLeft</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamTranslateRight</SourceName>
+    <FriendlyName>CamTranslateRight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamTranslateUp</SourceName>
+    <FriendlyName>CamTranslateUp</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamTranslateDown</SourceName>
+    <FriendlyName>CamTranslateDown</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamZoomIn</SourceName>
+    <FriendlyName>CamZoomIn</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamZoomOut</SourceName>
+    <FriendlyName>CamZoomOut</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CamTranslateZHold</SourceName>
+    <FriendlyName>CamTranslateZHold</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleDriveAssist</SourceName>
+    <FriendlyName>ToggleDriveAssist</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SteerLeftButton</SourceName>
+    <FriendlyName>SteerLeftButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SteerRightButton</SourceName>
+    <FriendlyName>SteerRightButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyRollLeftButton</SourceName>
+    <FriendlyName>BuggyRollLeftButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyRollRightButton</SourceName>
+    <FriendlyName>BuggyRollRightButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyPitchUpButton</SourceName>
+    <FriendlyName>BuggyPitchUpButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyPitchDownButton</SourceName>
+    <FriendlyName>BuggyPitchDownButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VerticalThrustersButton</SourceName>
+    <FriendlyName>VerticalThrustersButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyPrimaryFireButton</SourceName>
+    <FriendlyName>BuggyPrimaryFireButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggySecondaryFireButton</SourceName>
+    <FriendlyName>BuggySecondaryFireButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>AutoBreakBuggyButton</SourceName>
+    <FriendlyName>AutoBreakBuggyButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadlightsBuggyButton</SourceName>
+    <FriendlyName>HeadlightsBuggyButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleBuggyTurretButton</SourceName>
+    <FriendlyName>ToggleBuggyTurretButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SelectTarget_Buggy</SourceName>
+    <FriendlyName>SelectTarget_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyTurretYawLeftButton</SourceName>
+    <FriendlyName>BuggyTurretYawLeftButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyTurretYawRightButton</SourceName>
+    <FriendlyName>BuggyTurretYawRightButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyTurretPitchUpButton</SourceName>
+    <FriendlyName>BuggyTurretPitchUpButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyTurretPitchDownButton</SourceName>
+    <FriendlyName>BuggyTurretPitchDownButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>BuggyToggleReverseThrottleInput</SourceName>
+    <FriendlyName>BuggyToggleReverseThrottleInput</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncreaseSpeedButtonMax</SourceName>
+    <FriendlyName>IncreaseSpeedButtonMax</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>DecreaseSpeedButtonMax</SourceName>
+    <FriendlyName>DecreaseSpeedButtonMax</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncreaseEnginesPower_Buggy</SourceName>
+    <FriendlyName>IncreaseEnginesPower_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncreaseWeaponsPower_Buggy</SourceName>
+    <FriendlyName>IncreaseWeaponsPower_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>IncreaseSystemsPower_Buggy</SourceName>
+    <FriendlyName>IncreaseSystemsPower_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ResetPowerDistribution_Buggy</SourceName>
+    <FriendlyName>ResetPowerDistribution_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleCargoScoop_Buggy</SourceName>
+    <FriendlyName>ToggleCargoScoop_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>EjectAllCargo_Buggy</SourceName>
+    <FriendlyName>EjectAllCargo_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RecallDismissShip</SourceName>
+    <FriendlyName>RecallDismissShip</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>UIFocus_Buggy</SourceName>
+    <FriendlyName>UIFocus_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusLeftPanel_Buggy</SourceName>
+    <FriendlyName>FocusLeftPanel_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusCommsPanel_Buggy</SourceName>
+    <FriendlyName>FocusCommsPanel_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>QuickCommsPanel_Buggy</SourceName>
+    <FriendlyName>QuickCommsPanel_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusRadarPanel_Buggy</SourceName>
+    <FriendlyName>FocusRadarPanel_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FocusRightPanel_Buggy</SourceName>
+    <FriendlyName>FocusRightPanel_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>GalaxyMapOpen_Buggy</SourceName>
+    <FriendlyName>GalaxyMapOpen_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>SystemMapOpen_Buggy</SourceName>
+    <FriendlyName>SystemMapOpen_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>HeadLookToggle_Buggy</SourceName>
+    <FriendlyName>HeadLookToggle_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewToggleMode</SourceName>
+    <FriendlyName>MultiCrewToggleMode</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewPrimaryFire</SourceName>
+    <FriendlyName>MultiCrewPrimaryFire</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewSecondaryFire</SourceName>
+    <FriendlyName>MultiCrewSecondaryFire</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewPrimaryUtilityFire</SourceName>
+    <FriendlyName>MultiCrewPrimaryUtilityFire</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewSecondaryUtilityFire</SourceName>
+    <FriendlyName>MultiCrewSecondaryUtilityFire</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewThirdPersonYawLeftButton</SourceName>
+    <FriendlyName>MultiCrewThirdPersonYawLeftButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewThirdPersonYawRightButton</SourceName>
+    <FriendlyName>MultiCrewThirdPersonYawRightButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewThirdPersonPitchUpButton</SourceName>
+    <FriendlyName>MultiCrewThirdPersonPitchUpButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewThirdPersonPitchDownButton</SourceName>
+    <FriendlyName>MultiCrewThirdPersonPitchDownButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewThirdPersonFovOutButton</SourceName>
+    <FriendlyName>MultiCrewThirdPersonFovOutButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewThirdPersonFovInButton</SourceName>
+    <FriendlyName>MultiCrewThirdPersonFovInButton</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewCockpitUICycleForward</SourceName>
+    <FriendlyName>MultiCrewCockpitUICycleForward</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MultiCrewCockpitUICycleBackward</SourceName>
+    <FriendlyName>MultiCrewCockpitUICycleBackward</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrderRequestDock</SourceName>
+    <FriendlyName>OrderRequestDock</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrderDefensiveBehaviour</SourceName>
+    <FriendlyName>OrderDefensiveBehaviour</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrderAggressiveBehaviour</SourceName>
+    <FriendlyName>OrderAggressiveBehaviour</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrderFocusTarget</SourceName>
+    <FriendlyName>OrderFocusTarget</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrderHoldFire</SourceName>
+    <FriendlyName>OrderHoldFire</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrderHoldPosition</SourceName>
+    <FriendlyName>OrderHoldPosition</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OrderFollow</SourceName>
+    <FriendlyName>OrderFollow</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>OpenOrders</SourceName>
+    <FriendlyName>OpenOrders</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PhotoCameraToggle</SourceName>
+    <FriendlyName>PhotoCameraToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PhotoCameraToggle_Buggy</SourceName>
+    <FriendlyName>PhotoCameraToggle_Buggy</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraScrollLeft</SourceName>
+    <FriendlyName>VanityCameraScrollLeft</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraScrollRight</SourceName>
+    <FriendlyName>VanityCameraScrollRight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleFreeCam</SourceName>
+    <FriendlyName>ToggleFreeCam</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraOne</SourceName>
+    <FriendlyName>VanityCameraOne</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraTwo</SourceName>
+    <FriendlyName>VanityCameraTwo</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraThree</SourceName>
+    <FriendlyName>VanityCameraThree</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraFour</SourceName>
+    <FriendlyName>VanityCameraFour</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraFive</SourceName>
+    <FriendlyName>VanityCameraFive</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraSix</SourceName>
+    <FriendlyName>VanityCameraSix</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraSeven</SourceName>
+    <FriendlyName>VanityCameraSeven</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraEight</SourceName>
+    <FriendlyName>VanityCameraEight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>VanityCameraNine</SourceName>
+    <FriendlyName>VanityCameraNine</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FreeCamToggleHUD</SourceName>
+    <FriendlyName>FreeCamToggleHUD</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FreeCamSpeedInc</SourceName>
+    <FriendlyName>FreeCamSpeedInc</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FreeCamSpeedDec</SourceName>
+    <FriendlyName>FreeCamSpeedDec</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleReverseThrottleInputFreeCam</SourceName>
+    <FriendlyName>ToggleReverseThrottleInputFreeCam</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MoveFreeCamForward</SourceName>
+    <FriendlyName>MoveFreeCamForward</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MoveFreeCamBackwards</SourceName>
+    <FriendlyName>MoveFreeCamBackwards</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MoveFreeCamRight</SourceName>
+    <FriendlyName>MoveFreeCamRight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MoveFreeCamLeft</SourceName>
+    <FriendlyName>MoveFreeCamLeft</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MoveFreeCamUp</SourceName>
+    <FriendlyName>MoveFreeCamUp</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>MoveFreeCamDown</SourceName>
+    <FriendlyName>MoveFreeCamDown</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PitchCameraUp</SourceName>
+    <FriendlyName>PitchCameraUp</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>PitchCameraDown</SourceName>
+    <FriendlyName>PitchCameraDown</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>YawCameraLeft</SourceName>
+    <FriendlyName>YawCameraLeft</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>YawCameraRight</SourceName>
+    <FriendlyName>YawCameraRight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RollCameraLeft</SourceName>
+    <FriendlyName>RollCameraLeft</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>RollCameraRight</SourceName>
+    <FriendlyName>RollCameraRight</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleRotationLock</SourceName>
+    <FriendlyName>ToggleRotationLock</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FixCameraRelativeToggle</SourceName>
+    <FriendlyName>FixCameraRelativeToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FixCameraWorldToggle</SourceName>
+    <FriendlyName>FixCameraWorldToggle</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>QuitCamera</SourceName>
+    <FriendlyName>QuitCamera</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>ToggleAdvanceMode</SourceName>
+    <FriendlyName>ToggleAdvanceMode</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FreeCamZoomIn</SourceName>
+    <FriendlyName>FreeCamZoomIn</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FreeCamZoomOut</SourceName>
+    <FriendlyName>FreeCamZoomOut</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FStopDec</SourceName>
+    <FriendlyName>FStopDec</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>FStopInc</SourceName>
+    <FriendlyName>FStopInc</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CommanderCreator_Undo</SourceName>
+    <FriendlyName>CommanderCreator_Undo</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CommanderCreator_Redo</SourceName>
+    <FriendlyName>CommanderCreator_Redo</FriendlyName>
+  </Command>
+  <Command Include="true">
+    <SourceName>CommanderCreator_Rotation_MouseToggle</SourceName>
+    <FriendlyName>CommanderCreator_Rotation_MouseToggle</FriendlyName>
+  </Command>
+</AppCommands>

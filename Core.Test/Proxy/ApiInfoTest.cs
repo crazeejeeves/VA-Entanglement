@@ -4,7 +4,7 @@ using Moq;
 
 using entanglement.Core.Proxy;
 
-namespace Core.Test
+namespace Core.Test.Proxy
 {
     public interface ICompatibleProxy
     {
