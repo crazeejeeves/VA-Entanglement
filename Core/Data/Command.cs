@@ -1,6 +1,6 @@
 ﻿using entanglement.Core.Utils;
 
-namespace entanglement.Core.Commands
+namespace entanglement.Core.Data
 {
     public class Command
     {

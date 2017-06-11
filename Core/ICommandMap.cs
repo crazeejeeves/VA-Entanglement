@@ -2,7 +2,7 @@
 namespace entanglement.Core
 {
     /// <summary>
-    /// Interface for obtainind the command mapping from a specified source file.
+    /// Interface for obtaining the command mapping from a specified source file.
     /// 
     /// Command maps are used as a meta-layer to address the following concerns:
     /// a. Different applications use a different naming convention for representing command names

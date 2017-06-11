@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-using entanglement.Core.Commands;
+using entanglement.Core.Data;
 
 
 namespace Core.Test.Commands

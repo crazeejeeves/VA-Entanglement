@@ -1,5 +1,5 @@
 ﻿
-namespace entanglement.Core
+namespace entanglement.Core.Data
 {
     /// <summary>
     /// Loaded binding information

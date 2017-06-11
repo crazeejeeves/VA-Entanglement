@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App\Elite\BindingParser.cs" />
+    <Compile Include="App\Elite\EliteBindingReader.cs" />
     <Compile Include="Entangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

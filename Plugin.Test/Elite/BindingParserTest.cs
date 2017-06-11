@@ -1,8 +1,7 @@
 ﻿using Xunit;
-using Moq;
 
 using entanglement.Core;
-using entanglement.Core.Commands;
+using entanglement.Core.Data;
 using entanglement.Plugin.App.Elite;
 
 
@@ -13,14 +12,12 @@ namespace Plugin.Test.Elite
         [Fact]
         public void ParseEliteBindingFile()
         {
-            StandardCommandMap scm = new StandardCommandMap();
-
-            var mock = new Mock<IKeyMap>();
-            IKeyMap km = mock.Object;
+            ICommandMap commandMap = new StandardCommandMap();
+            IActionMap actionMap = new StandardActionMap();
 
 
             EliteBindingReader reader = new EliteBindingReader();
-            reader.Configure(scm, km);
+            reader.Configure(commandMap, actionMap);
             reader.Load(@"X:\Documents\Sources\ref.binds");
         }
     }

@@ -1,12 +1,11 @@
 ﻿
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Xml.Linq;
 using System.Linq;
 
 
-namespace entanglement.Core.Commands
+namespace entanglement.Core.Data
 {
     /// <summary>
     /// Provides standard command map loading and manipulation

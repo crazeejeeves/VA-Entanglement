@@ -1,5 +1,4 @@
 ﻿using System;
-using entanglement.Core;
 using entanglement.Core.Proxy;
 
 namespace entanglement.Plugin
@@ -8,7 +7,12 @@ namespace entanglement.Plugin
     {
         public static string VA_DisplayName()
         {
-            return "entanglement v0.1.0";
+            string version = System.Reflection.Assembly.GetExecutingAssembly()
+                                           .GetName()
+                                           .Version
+                                           .ToString();
+
+            return "entanglement v" + version;
         }
 
         public static string VA_DisplayInfo()

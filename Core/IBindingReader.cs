@@ -2,7 +2,7 @@
 {
     public interface IBindingReader
     {
-        void Configure(ICommandMap commandMap, IKeyMap keyMap);
+        void Configure(ICommandMap commandMap, IActionMap actionMap);
         void Load(string path);
     }
 }
