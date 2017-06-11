@@ -50,6 +50,7 @@
     <Compile Include="Proxy\IProxyHelper.cs" />
     <Compile Include="Proxy\ProxyHelperFactory.cs" />
     <Compile Include="Proxy\ProxyHelperV4.cs" />
+    <Compile Include="Utils\String.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

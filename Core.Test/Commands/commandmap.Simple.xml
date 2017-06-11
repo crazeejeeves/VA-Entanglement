@@ -15,4 +15,9 @@
     <SourceName>CommandWithMissingInclude</SourceName>
     <FriendlyName>FriendlyCommandWithMissingInclude</FriendlyName>
   </Command>
+  <Command Include="true">
+    <SourceName>CommandWithNonstandardFriendly</SourceName>
+    <FriendlyName>Friendly Name With Whitespaces
+    </FriendlyName>
+  </Command>
   </AppCommands>

@@ -30,6 +30,7 @@ namespace Core.Test.Commands
             Assert.True(cm.CommandExists("IncludedCommand"));
             Assert.True(cm.CommandExists("CommandWithMissingFriendly"));
             Assert.True(cm.CommandExists("CommandWithMissingInclude"));
+            Assert.True(cm.CommandExists("CommandWithNonstandardFriendly"));
         }
 
         [Fact]
@@ -40,6 +41,15 @@ namespace Core.Test.Commands
 
             Assert.Equal("FriendlyIncludedCommand", cm.GetFriendlyName("IncludedCommand"));
             Assert.Equal("FriendlyCommandWithMissingInclude", cm.GetFriendlyName("CommandWithMissingInclude"));
+        }
+
+        [Fact]
+        public void WhitespacesInFriendlyNameAreTrimmed()
+        {
+            StandardCommandMap cm = new StandardCommandMap();
+            cm.Load(@"Commands\commandmap.Simple.xml");
+
+            Assert.Equal("FriendlyNameWithWhitespaces", cm.GetFriendlyName("CommandWithNonstandardFriendly"));
         }
 
         [Fact]
